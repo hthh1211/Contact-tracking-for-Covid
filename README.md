@@ -1,1 +1,1 @@
-# Contact-tracking-for-Covid
+COVID was a urgent issue for human society and one way to fight with it was to identify and test the close contacts of COVID patients efficiently. An android application that utilized bluetooth and GPS was developed for this. The details on this app can be read in Contact tracking for Covid-19.pdf
